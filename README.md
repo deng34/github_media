@@ -1,1 +1,1 @@
-This is a place I use to store files.
+This is the place where I store files.
